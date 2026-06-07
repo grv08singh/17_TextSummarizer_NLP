@@ -1,6 +1,9 @@
-transformers
+transformers==4.44.2
 transformers[sentencepiece]
-datasets
+datasets==2.21.0
+tokenizers==0.19.1
+huggingface-hub>=0.23.2,<1.0
+ipykernel==6.29.5
 sacrebleu 
 rouge_score 
 py7zr
@@ -18,4 +21,8 @@ ensure==1.0.2
 fastapi==0.78.0
 uvicorn==0.18.3
 Jinja2==3.1.2
+pyarrow==17.0.0
+dill==0.3.8
+fsspec[http]==2024.6.1
+multiprocess==0.70.16
 -e .
