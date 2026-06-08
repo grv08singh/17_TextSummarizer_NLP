@@ -1,4 +1,4 @@
-# End to end Text-Summarizer-Project
+# End to end Text Summarization Project
 
 ## Process to run on local machine:
 ### STEP 01: Clone the repository
