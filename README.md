@@ -23,9 +23,8 @@ python app.py
 
 
 
-Author: Gaurav Singh
-Data Scientist
-Email: grv08singh@gmail.com
+- Author: Gaurav Singh (Data Scientist)
+- Email: grv08singh@gmail.com
 
 
 
