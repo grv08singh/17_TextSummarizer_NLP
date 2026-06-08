@@ -10,7 +10,7 @@ git clone https://github.com/grv08singh/17_TextSummarizer_NLP
 conda create -n env_txt_summarizer python=3.12.13 -y
 conda activate env_txt_summarizer
 ```
-### STEP 03: install the requirements
+### STEP 03: install the requirements and run the app
 ```bash
 pip install -r requirements.txt
 python app.py
